@@ -1,0 +1,11 @@
+# Coril · Explorador de Frontera por Perfil (analista)
+# Streamlit Community Cloud
+streamlit>=1.40
+numpy>=2.3
+pandas>=2.3.3
+scipy>=1.14
+scikit-learn>=1.6
+plotly>=5.24
+requests>=2.31
+yfinance>=0.2.50
+openpyxl>=3.1
